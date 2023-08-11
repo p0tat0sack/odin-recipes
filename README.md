@@ -1,2 +1,2 @@
 # odin-recipes
-This is a mock recipe website that I'm working on to learn HTML formatting.
+This is a mock-recipe website I'm making in order to learn HTML.
